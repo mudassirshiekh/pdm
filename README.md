@@ -1,6 +1,7 @@
 <div align="center">
 
 # PDM
+#Mudassir Alam
 
 A modern Python package and dependency manager supporting the latest PEP standards.
 [中文版本说明](README_zh.md)
